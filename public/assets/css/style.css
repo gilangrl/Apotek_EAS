@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&family=Poppins:ital,wght@0,400;1,100&family=Roboto&display=swap');
+
+.title-utama{
+	font-family: 'Playfair Display';
+	font-weight: 700;
+	font-size: 35px;
+	line-height: 65px;
+	padding: 40px 0px 0px 0px;
+	margin-top: 20px;
+}
+
+.title-kedua{
+	font-family: 'Poppins';
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 45px;
+
+	
+}
+
+.health {
+	font-family: 'Playfair Display';
+	font-weight: 700;
+	font-size: 35px;
+	line-height: 80px;
+}
+
+.navbar{
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 33px;
+}
+
+.navbar-brand{
+	font-size: 25px;
+}
+
+.drop{
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 33px;
+}
+
+.tombol {
+	background-image: linear-gradient(to right, #4b6cb7 0%, #182848  51%, #4b6cb7  100%);
+	width:20%;
+	padding: 10px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: white;            
+	box-shadow: 0 0 20px #eee;
+	border-radius: 10px;
+	display: block;
+}
+
+.tombol:hover {
+	background-position: right center;
+	color: #fff;
+	text-decoration: none;
+}
+
+.header-title{
+	font-family: 'Poppins';
+	font-weight: 400;
+	font-size: 35px;
+	line-height: 45px;
+}
+
+.text{
+	font-family: 'Poppins';
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 45px;
+}
